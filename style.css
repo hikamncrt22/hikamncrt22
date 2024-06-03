@@ -74,7 +74,7 @@ img {
     background-position: center top;
 }
 #home {
-    background-image: url(/Users/kinoshitahikari/Desktop/HTML-lesson/WCBCafe/images/content-pixie-Xv0CHwbn6O8-unsplash.jpg);
+    background-image: url(https://github.com/hikamncrt22/hikamncrt22/blob/main/content-pixie-Xv0CHwbn6O8-unsplash.jpg?raw=true);
     min-height: 100vh;
 }
 #home .page-title {
